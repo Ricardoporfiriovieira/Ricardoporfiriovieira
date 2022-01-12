@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 - 👋 Hi, I’m @Ricardoporfiriovieira
 - 👀 I’m interested in machine learning
@@ -20,10 +20,10 @@
   <img align="center" alt="Ricardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Ricardo-pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47sbo5r5qmivrox5yst5j5fxfj3rmugkfljfjm6i47&rid=giphy.gif&ct=g">
 </div>
- 
- ##
- 
+
+  ## me siga nas redes sociais !<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
  <div> 
+   
   <a href="https://www.youtube.com/channel/UC5B7bozpraq_5AnTI4HTl_A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ricardoporfiri0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ricardoporfiriovieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
