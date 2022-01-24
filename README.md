@@ -11,6 +11,9 @@
   <img height="180em" width="49.7%" margin="0" src="https://github-readme-stats.vercel.app/api?username=ricardoporfiriovieira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49.7%" margin="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoporfiriovieira&layout=compact&langs_count=7&theme=radical"/> <br>
   </a>
+  
+## MY Contribution:
+![Ricardo Porfirio Vieira' Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=Ricardoporfiriovieira&custom_title=Ricardo%20Porfirio%20Vieira%20Contribution%20Graph&theme=radical&bg_color=0F1226&hide_border=false&line=d1a01f&point=c58545)
 </div>
  
 <div style="display: inline_block"><br>
