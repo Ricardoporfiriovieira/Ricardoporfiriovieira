@@ -1,8 +1,8 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px"> 
 
 - 👋 Hi, I’m @Ricardoporfiriovieira
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m BackEnd Developer
+- 🌱 I’m currently learning Go lang
 - 📫 Reach me in email as ricardoporfiriovieira@gmail.com
 
 ##
